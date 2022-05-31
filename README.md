@@ -1,23 +1,20 @@
-<h1 align="center">Hi there! 👋 I'm Jaqueline Sindie</h1>
+## Olá! Eu sou a Jaqueline Damasceno 👋
 
-✨ I'm passionate about the data universe, looking to improve in the area and have fun while learning.
+Sou formada em Gestão da Tecnologia da Informação pelo Instituto Federal de Educação e Tecnologia e discente em Administração pela UFSJ. Sou uma pessoa que gosta de estar em constante aprendizado com curiosidade, pensamento analítico e disposta a novos desafios! Diante disso que descobri na área de dados a possibilidade de unir a tecnologia, negócios, criatividade e resolução de problemas. Atualmente estou me especializando na área de Análise de Dados e Business Intelligence. 
+
+![jaquelinesindie GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinesindie&show_icons=true&theme=dracula)
+
+### Tecnologias que uso:
+<div style="display: inline_block">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whitee"/>
+    <img align="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div><br/>
+
+### Onde me encontrar:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jaquesindie/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelinesindie/)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](https://medium.com/@jaqueline.sindie)
 
 
-🌱 I'm currently learning **Power BI**
-
-📫 How to reach me **jaqueline.sindie@gmail.com**
-
-⚡ Fun fact **I like to play FPS and watch dramas in my free time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaquelinesindie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaquelinesindie" height="30" width="40" /></a>
-<a href="https://discord.gg/Jaq#7347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jaq#7347" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaquelinesindie&show_icons=true&locale=en&layout=compact" alt="jaquelinesindie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaquelinesindie&" alt="jaquelinesindie" /></p>
