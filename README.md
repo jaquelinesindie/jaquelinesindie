@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jaqueline Damasceno 👋
 
-Sou formada em Gestão da Tecnologia da Informação pelo Instituto Federal de Educação e Tecnologia e discente em Administração pela UFSJ. Sou uma pessoa que gosta de estar em constante aprendizado com curiosidade, pensamento analítico e disposta a novos desafios! Diante disso que descobri na área de dados a possibilidade de unir a tecnologia, negócios, criatividade e resolução de problemas. Atualmente estou me especializando na área de Análise de Dados e Business Intelligence. 
+Sou formada em Gestão da Tecnologia da Informação pelo Instituto Federal de Educação e Tecnologia e discente em Administração pela UFSJ. Sou uma pessoa que gosta de estar em constante aprendizado com curiosidade, pensamento analítico e disposta a novos desafios! Diante disso que descobri na área de dados a possibilidade de unir a tecnologia, negócios, criatividade e resolução de problemas. Atualmente estou me especializando na área de Analytics Engineer
 
 ![jaquelinesindie GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinesindie&show_icons=true&theme=dracula)
 
